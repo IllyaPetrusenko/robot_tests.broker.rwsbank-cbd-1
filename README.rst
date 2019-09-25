@@ -1,4 +1,4 @@
-robot_tests.broker.setam
+robot_tests.broker.rwsbank
 ===========================
 
 |Join the chat at
